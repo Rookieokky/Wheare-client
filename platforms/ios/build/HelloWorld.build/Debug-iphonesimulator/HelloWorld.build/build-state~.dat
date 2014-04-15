@@ -1,0 +1,816 @@
+THelloWorld
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Info.plist /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/HelloWorld-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+cCpResource HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png
+cCpResource HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png
+cCpResource HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png
+cCpResource HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png
+cCpResource HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png
+cCopyStringsFile /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.xib
+cCpResource HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png
+cCpResource HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png
+cCopyStringsFile /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings
+cCpResource HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png
+cCpResource HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+cCpResource HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+cCpResource HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+cCpResource HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png
+cCpResource HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+cCpResource HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png
+cCpResource HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png
+cCpResource HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png
+cCpResource HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png
+cCpResource HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+cCpResource HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png
+cCpResource HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png
+cCpResource HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png
+cProcessPCH /var/folders/np/6tnwzt7d3c9_fz1r5p0wndn40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-gzjzlgfiprrxqffeijleclrjztxv/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/HelloWorld normal i386
+cGenerateDSYMFile /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app.dSYM /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+cTouch /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052C28DC100000000000003B5
+t1388481985
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052C28DD100000000000001A0
+t1388482001
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c0000000052C28DD30000000000059350
+t1388482003
+s365392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052C28DD40000000000445870
+t1388482004
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000052C28DD500000000000EC820
+t1388482005
+s968736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000052C28DDF00000000001BA530
+t1388482015
+s1811760
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/AppDelegate.m
+c00000000534B6E1800000000000013AB
+t1397452312
+s5035
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.m
+c00000000534B6E18000000000000126B
+t1397452312
+s4715
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.xib
+c00000000534B6E180000000000001759
+t1397452312
+s5977
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/HelloWorld-Info.plist
+c00000000534B6E1B0000000000000A13
+t1397452315
+s2579
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/HelloWorld-Prefix.pch
+c00000000534B6E1800000000000003C5
+t1397452312
+s965
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/de.lproj/Localizable.strings
+c00000000534B6E1800000000000004C0
+t1397452312
+s1216
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/en.lproj/Localizable.strings
+c00000000534B6E1800000000000004AB
+t1397452312
+s1195
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-40.png
+c00000000534B6E180000000000000FF2
+t1397452312
+s4082
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-40@2x.png
+c00000000534B6E180000000000001CF3
+t1397452312
+s7411
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-50.png
+c00000000534B6E18000000000000130A
+t1397452312
+s4874
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-50@2x.png
+c00000000534B6E18000000000000258B
+t1397452312
+s9611
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-60.png
+c00000000534B6E1800000000000016B3
+t1397452312
+s5811
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-60@2x.png
+c00000000534B6E180000000000002E94
+t1397452312
+s11924
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-72.png
+c00000000534B6E180000000000001350
+t1397452312
+s4944
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-72@2x.png
+c00000000534B6E180000000000002DBA
+t1397452312
+s11706
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-76.png
+c00000000534B6E180000000000001B71
+t1397452312
+s7025
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-76@2x.png
+c00000000534B6E180000000000003B9E
+t1397452312
+s15262
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-small.png
+c00000000534B6E180000000000000CDE
+t1397452312
+s3294
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-small@2x.png
+c00000000534B6E1800000000000015E8
+t1397452312
+s5608
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon.png
+c00000000534B6E180000000000000F3E
+t1397452312
+s3902
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon@2x.png
+c00000000534B6E180000000000001EBD
+t1397452312
+s7869
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/splash/Default-568h@2x~iphone.png
+c00000000534B6E1800000000000085B1
+t1397452312
+s34225
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000534B6E180000000000033D0A
+t1397452312
+s212234
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/splash/Default-Landscape~ipad.png
+c00000000534B6E1800000000000166A2
+t1397452312
+s91810
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000534B6E180000000000033F7C
+t1397452312
+s212860
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/splash/Default-Portrait~ipad.png
+c00000000534B6E180000000000016641
+t1397452312
+s91713
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/splash/Default@2x~iphone.png
+c00000000534B6E180000000000007323
+t1397452312
+s29475
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/splash/Default~iphone.png
+c00000000534B6E18000000000000289A
+t1397452312
+s10394
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/main.m
+c00000000534B6E18000000000000045C
+t1397452312
+s1116
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+t1397452359
+s77584
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c00000000534B6E2600000000000001C2
+t1397452326
+s450
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+t1397452359
+s53576
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t1397452359
+s3096
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+c00000000534B6E26000000000000002D
+t1397452326
+s45
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app
+t1397452361
+s1020
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app.dSYM
+t2
+s0
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+t1397452327
+s34225
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+t1397452327
+s212234
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+t1397452327
+s91810
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+t1397452327
+s212860
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+t1397452327
+s91713
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Default@2x~iphone.png
+t1397452327
+s29475
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Default~iphone.png
+t1397452327
+s10394
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+t1397452361
+s280948
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Info.plist
+t1397452326
+s1287
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/MainViewController.nib
+t1397452354
+s1332
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/PkgInfo
+t2
+s0
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings
+t1397452327
+s280
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings
+t1397452327
+s166
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-40.png
+t1397452327
+s4082
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-40@2x.png
+t1397452327
+s7411
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-50.png
+t1397452327
+s4874
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-50@2x.png
+t1397452327
+s9611
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-60.png
+t1397452327
+s5811
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-60@2x.png
+t1397452327
+s11924
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-72.png
+t1397452327
+s4944
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-72@2x.png
+t1397452327
+s11706
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-76.png
+t1397452327
+s7025
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-76@2x.png
+t1397452327
+s15262
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-small.png
+t1397452327
+s3294
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-small@2x.png
+t1397452327
+s5608
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon.png
+t1397452327
+s3902
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon@2x.png
+t1397452327
+s7869
+
+N/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/libCordova.a
+c00000000534B6E2600000000000D9358
+t1397452326
+s889688
+
+N/var/folders/np/6tnwzt7d3c9_fz1r5p0wndn40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-gzjzlgfiprrxqffeijleclrjztxv/HelloWorld-Prefix.pch.pch
+t1397452359
+s5342568
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7174d5a6a5fbb841^71acd7a6a5fbb841^---0#1#1#--18"Check dependencies36"58720F9E-078E-4795-90AD-2496E93B129C-
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419145159.179347
+e419145159.711373
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+x/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/AppDelegate.m
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/AppDelegate.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/AppDelegate.m221"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o [1mHelloWorld/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler494840c7a5fbb841^2443b6c7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/AppDelegate.m0000000000000000^3916"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o [1mHelloWorld/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/usr/local/lib/include -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/UninstalledProducts/include -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator -include /var/folders/np/6tnwzt7d3c9_fz1r5p0wndn40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-gzjzlgfiprrxqffeijleclrjztxv/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.dia -c /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/AppDelegate.m -o /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o36"1E0E1C3C-5068-4236-9EF7-CBE56C9E98C4-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419145159.657127
+e419145159.750449
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+x/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.m
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.m235"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o [1mHelloWorld/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere353a8c7a5fbb841^c91fc0c7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.m0000000000000000^3958"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o [1mHelloWorld/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/usr/local/lib/include -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/UninstalledProducts/include -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator -include /var/folders/np/6tnwzt7d3c9_fz1r5p0wndn40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-gzjzlgfiprrxqffeijleclrjztxv/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.dia -c /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.m -o /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o36"D36B7411-AA19-469C-B3C6-199F526E4775-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419145159.179157
+e419145159.656791
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+x/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/main.m199"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o [1mHelloWorld/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler494840c7a5fbb841^7423a8c7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/main.m0000000000000000^3858"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o [1mHelloWorld/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/usr/local/lib/include -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/UninstalledProducts/include -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator -include /var/folders/np/6tnwzt7d3c9_fz1r5p0wndn40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-gzjzlgfiprrxqffeijleclrjztxv/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.dia -c /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/main.m -o /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o36"7EDDC2B6-708B-4446-8577-7C10E3EDF881-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCompileXIB /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.xib
+s419145127.445271
+e419145155.222004
+r1
+xCompileXIB
+x/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.xib
+o2014-04-13 22:12:31.147 Interface Builder Cocoa Touch Tool[2383:303] CFPreferences: user home directory at file:///Users/okky/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compiling /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.xib68"[1mCompileXIB[0m [1mHelloWorld/Classes/MainViewController.xib[0m011572a7a5fbb841^6fd638c3a5fbb841^-228"2014-04-13 22:12:31.147 Interface Builder Cocoa Touch Tool[2383:303] CFPreferences: user home directory at file:///Users/okky/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@102"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.xib0000000000000000^920"[1mCompileXIB[0m [1mHelloWorld/Classes/MainViewController.xib[0m    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 5.0 --output-format human-readable-text --compile /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/MainViewController.nib /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Classes/MainViewController.xib36"B8D2DF1F-B349-47F6-BAD9-8BEEB81CB5F0-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCopyStringsFile /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings
+s419145127.465860
+e419145127.483731
+r1
+xCopyStringsFile
+x/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings
+xHelloWorld/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld/Resources/de.lproj/Localizable.strings132"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.stringsd15877a7a5fbb841^43e57ba7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/de.lproj/Localizable.strings0000000000000000^712"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/de.lproj -- HelloWorld/Resources/de.lproj/Localizable.strings36"BCDB5B75-E457-443F-9B22-AAFA41298535-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCopyStringsFile /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings
+s419145127.444421
+e419145127.449402
+r1
+xCopyStringsFile
+x/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings
+xHelloWorld/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld/Resources/en.lproj/Localizable.strings132"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings6ade71a7a5fbb841^0f0d73a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/en.lproj/Localizable.strings0000000000000000^712"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/en.lproj -- HelloWorld/Resources/en.lproj/Localizable.strings36"4CDB356C-C0F3-4957-AE48-F28F618169E6-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png
+s419145127.706197
+e419145127.776397
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-40.png
+xbuild/emulator/HelloWorld.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-40.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png87dcb4a7a5fbb841^8bc2c6a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-40.png0034246cdeffdf42^732"[1mCpResource[0m HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-40.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"FEE3AEFE-4FFF-487C-9342-5D46167644D7-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png
+s419145127.393545
+e419145127.440003
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-40@2x.png
+xbuild/emulator/HelloWorld.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-40@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.pnga6d564a7a5fbb841^0dab70a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-40@2x.png0034246cdeffdf42^741"[1mCpResource[0m HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-40@2x.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"ADB1EEF5-3723-4075-94B7-23F214F44230-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png
+s419145127.449691
+e419145127.462346
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-50.png
+xbuild/emulator/HelloWorld.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-50.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png943473a7a5fbb841^2d5c76a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-50.png0034246cdeffdf42^732"[1mCpResource[0m HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-50.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"C07D660F-239D-40B0-91A5-589281A621FB-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png
+s419145127.851686
+e419145127.866584
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-50@2x.png
+xbuild/emulator/HelloWorld.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-50@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.pngda1ddaa7a5fbb841^16dadda7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-50@2x.png0034246cdeffdf42^741"[1mCpResource[0m HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-50@2x.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"1B9F7EA0-2DDF-4E72-8195-CA0CEF7AFEA0-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png
+s419145127.794871
+e419145127.811251
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-60.png
+xbuild/emulator/HelloWorld.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-60.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.pngb58dcba7a5fbb841^deaecfa7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-60.png0034246cdeffdf42^732"[1mCpResource[0m HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-60.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"BFF4C473-92D8-4934-9472-5671DC7F1953-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png
+s419145127.462637
+e419145127.465655
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-60@2x.png
+xbuild/emulator/HelloWorld.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-60@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.pngb08f76a7a5fbb841^b63077a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-60@2x.png0034246cdeffdf42^741"[1mCpResource[0m HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-60@2x.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"555874EA-2CB0-4DFB-84FB-FAF0F03033B8-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png
+s419145127.429520
+e419145127.440845
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-72.png
+xbuild/emulator/HelloWorld.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-72.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.pngf6076ea7a5fbb841^e71771a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-72.png0034246cdeffdf42^732"[1mCpResource[0m HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-72.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"C7344D47-4979-41E5-A03B-E42DA2309578-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png
+s419145127.887321
+e419145127.890142
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-72@2x.png
+xbuild/emulator/HelloWorld.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-72@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png3a3de3a7a5fbb841^22e1e3a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-72@2x.png0034246cdeffdf42^741"[1mCpResource[0m HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-72@2x.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"10D1BE35-A2CA-4EEA-ADBC-0E8C1135180F-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png
+s419145127.393342
+e419145127.429249
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-76.png
+xbuild/emulator/HelloWorld.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-76.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png6ccb64a7a5fbb841^b9e36da7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-76.png0034246cdeffdf42^732"[1mCpResource[0m HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-76.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"6A55CECA-C5CA-4B00-82E0-60F3F366E219-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png
+s419145127.866885
+e419145127.887132
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-76@2x.png
+xbuild/emulator/HelloWorld.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-76@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.pngb802dea7a5fbb841^bd1be3a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-76@2x.png0034246cdeffdf42^741"[1mCpResource[0m HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-76@2x.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"A2B7E648-0C16-488B-911E-CE499004D12B-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png
+s419145127.483989
+e419145127.520632
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-small.png
+xbuild/emulator/HelloWorld.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-small.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png9d127ca7a5fbb841^884885a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-small.png0034246cdeffdf42^741"[1mCpResource[0m HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-small.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"091C45A2-0D97-4286-8E33-673F91A4AED5-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png
+s419145127.649799
+e419145127.663304
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-small@2x.png
+xbuild/emulator/HelloWorld.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/HelloWorld.app/icon-small@2x.png111"[1mCpResource[0m HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png446aa6a7a5fbb841^14cfa9a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon-small@2x.png0034246cdeffdf42^750"[1mCpResource[0m HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon-small@2x.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"76194634-93A9-4044-B72B-E6367A5BBFD2-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png
+s419145127.440720
+e419145127.444994
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon.png
+xbuild/emulator/HelloWorld.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/HelloWorld.app/icon.png93"[1mCpResource[0m HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png263871a7a5fbb841^2dec71a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon.png0034246cdeffdf42^723"[1mCpResource[0m HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"415FCA99-96EB-4EBC-ADD5-062ED9F1C90C-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png
+s419145127.441024
+e419145127.444252
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon@2x.png
+xbuild/emulator/HelloWorld.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon@2x.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png59fa70a7a5fbb841^7bbb71a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/icon@2x.png0034246cdeffdf42^732"[1mCpResource[0m HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/icons/icon@2x.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"8C4F04BB-6B81-40D9-BB7F-BFB00F540F15-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+s419145127.830654
+e419145127.851402
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/HelloWorld.app/Default-568h@2x~iphone.png130"[1mCpResource[0m HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png1cb7d4a7a5fbb841^94fbd9a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Default-568h@2x~iphone.png0034246cdeffdf42^779"[1mCpResource[0m HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/splash/Default-568h@2x~iphone.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"6C45560B-4389-4120-87C1-C45FBB29B439-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+s419145127.520801
+e419145127.569121
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png136"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png5a6685a7a5fbb841^92b291a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png0034246cdeffdf42^788"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"E9A1B97D-1F01-4934-B0A7-07C8FD3824D3-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+s419145127.569323
+e419145127.593399
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/HelloWorld.app/Default-Landscape~ipad.png130"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png03cf91a7a5fbb841^42e997a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape~ipad.png0034246cdeffdf42^779"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/splash/Default-Landscape~ipad.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"9D88FD4C-5F17-49CD-A947-0F80BF44421B-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+s419145127.593703
+e419145127.649580
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png134"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.pngaa0b98a7a5fbb841^454ba6a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png0034246cdeffdf42^785"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"099C4644-9F82-4992-8DB4-41FA8D3194A5-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+s419145127.663508
+e419145127.705918
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/emulator/HelloWorld.app/Default-Portrait~ipad.png128"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.pngeeeaa9a7a5fbb841^17b8b4a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait~ipad.png0034246cdeffdf42^776"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/splash/Default-Portrait~ipad.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"77A6D9B0-E918-43BA-8CD3-8B21427B2B80-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png
+s419145127.776609
+e419145127.794623
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/HelloWorld.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/emulator/HelloWorld.app/Default@2x~iphone.png120"[1mCpResource[0m HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png09e0c6a7a5fbb841^df6ccba7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Default@2x~iphone.png0034246cdeffdf42^764"[1mCpResource[0m HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/splash/Default@2x~iphone.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"4B33DC56-6582-4DE5-B8F9-86A697632B19-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CCpResource HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png
+s419145127.811428
+e419145127.830483
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default~iphone.png
+xbuild/emulator/HelloWorld.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/emulator/HelloWorld.app/Default~iphone.png114"[1mCpResource[0m HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png1ccfcfa7a5fbb841^0b9cd4a7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Default~iphone.png0034246cdeffdf42^755"[1mCpResource[0m HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/Resources/splash/Default~iphone.png /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"D2869C00-2CA5-4B22-ADB1-466B22EB0EB3-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CGenerateDSYMFile /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app.dSYM /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+s419145161.529269
+e419145161.692276
+r1
+xGenerateDSYMFile
+x/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app.dSYM
+x/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Generate /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app.dSYM108"[1mGenerateDSYMFile[0m [1mbuild/emulator/HelloWorld.app.dSYM[0m build/emulator/HelloWorld.app/HelloWorld4c8e87c9a5fbb841^9b3cb1c9a5fbb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app.dSYM0034246cdeffdf42^739"[1mGenerateDSYMFile[0m [1mbuild/emulator/HelloWorld.app.dSYM[0m build/emulator/HelloWorld.app/HelloWorld    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/HelloWorld -o /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app.dSYM36"19B58316-9539-4786-9CC5-B008AF53CDB2-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CLd /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/HelloWorld normal i386
+s419145159.774258
+e419145161.528329
+r1
+xLd
+x/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+xnormal
+xi386
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Link /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/HelloWorld63"[1mLd[0m build/emulator/HelloWorld.app/HelloWorld normal i3866248c6c7a5fbb841^7d4187c9a5fbb841^---0#0#1#--1832"[1mLd[0m build/emulator/HelloWorld.app/HelloWorld normal i386    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator -F/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator -filelist /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework AssetsLibrary /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld_dependency_info.dat -o /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/HelloWorld36"71E34B26-C21F-48AF-9EE0-F15EC750AE3B-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CPhaseScriptExecution Copy\ www\ directory /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+s419145126.956334
+e419145127.392712
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.326s
+ouser	0m0.084s
+osys	0m0.136s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'146"[1mPhaseScriptExecution[0m Copy\ www\ directory build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.shd82af5a6a5fbb841^b79764a7a5fbb841^-42"real	0m0.326suser	0m0.084ssys	0m0.136s3(21%IDEActivityLogMessage2@14"real	0m0.326s-419145127#1#14#-0#-----2@14"user	0m0.084s-419145127#15#14#-0#-----2@13"sys	0m0.136s-419145127#29#13#-0#-----0#0#1#--374"[1mPhaseScriptExecution[0m Copy\ www\ directory build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    /bin/sh -c /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh36"492AC63F-DCBB-4F5F-8140-4DCEF320D1DB-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CProcessInfoPlistFile /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Info.plist /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/HelloWorld-Info.plist
+s419145126.844228
+e419145126.955172
+r1
+xProcessInfoPlistFile
+x/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Info.plist
+x/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/HelloWorld-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Process /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/HelloWorld-Info.plist110"[1mProcessInfoPlistFile[0m build/emulator/HelloWorld.app/Info.plist [1mHelloWorld/HelloWorld-Info.plist[0mfc51d8a6a5fbb841^e086f4a6a5fbb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/HelloWorld-Info.plist0000000000000000^834"[1mProcessInfoPlistFile[0m build/emulator/HelloWorld.app/Info.plist [1mHelloWorld/HelloWorld-Info.plist[0m    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    builtin-infoPlistUtility /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/HelloWorld-Info.plist -genpkginfo /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app/Info.plist36"E8DC4B28-2C8E-41AD-9A54-9DBB54BB6ADB-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CProcessPCH /var/folders/np/6tnwzt7d3c9_fz1r5p0wndn40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-gzjzlgfiprrxqffeijleclrjztxv/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419145155.249378
+e419145159.178330
+r1
+xProcessPCH
+x/var/folders/np/6tnwzt7d3c9_fz1r5p0wndn40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-gzjzlgfiprrxqffeijleclrjztxv/HelloWorld-Prefix.pch.pch
+xHelloWorld/HelloWorld-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/HelloWorld-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile HelloWorld/HelloWorld-Prefix.pch310"[1mProcessPCH[0m /var/folders/np/6tnwzt7d3c9_fz1r5p0wndn40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-gzjzlgfiprrxqffeijleclrjztxv/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd9ed3fc3a5fbb841^f8a62dc7a5fbb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/HelloWorld-Prefix.pch0000000000000000^3935"[1mProcessPCH[0m /var/folders/np/6tnwzt7d3c9_fz1r5p0wndn40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-gzjzlgfiprrxqffeijleclrjztxv/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/include -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/usr/local/lib/include -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/UninstalledProducts/include -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator --serialize-diagnostics /var/folders/np/6tnwzt7d3c9_fz1r5p0wndn40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-gzjzlgfiprrxqffeijleclrjztxv/HelloWorld-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/np/6tnwzt7d3c9_fz1r5p0wndn40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-gzjzlgfiprrxqffeijleclrjztxv/HelloWorld-Prefix.pch.d -c /Users/okky/Carboneat/Carboneat-example/platforms/ios/HelloWorld/HelloWorld-Prefix.pch -o /var/folders/np/6tnwzt7d3c9_fz1r5p0wndn40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-gzjzlgfiprrxqffeijleclrjztxv/HelloWorld-Prefix.pch.pch36"6FB928B3-2A6E-42CA-B91C-D0895A32ED38-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
+CTouch /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app
+s419145161.694408
+e419145161.787732
+r1
+xTouch
+x/Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Touch /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app43"[1mTouch[0m build/emulator/HelloWorld.app55dbb1c9a5fbb841^efa8c9c9a5fbb841^---0#0#1#--493"[1mTouch[0m build/emulator/HelloWorld.app    cd /Users/okky/Carboneat/Carboneat-example/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/okky/Downloads/adt-bundle-mac-x86_64-20130514/sdk/platform-tools"    /usr/bin/touch -c /Users/okky/Carboneat/Carboneat-example/platforms/ios/build/emulator/HelloWorld.app36"7A48BA38-413A-4498-8CD2-F41591557925-
+bF0274F86-A1EC-412D-A91F-C7C6A60E268B
+
