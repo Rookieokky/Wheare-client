@@ -1,0 +1,34 @@
+
+<div data-role="page" id="showprod" data-theme="b"  class="gallery-page">	
+	<div data-role="content" align="center">
+		<div align="center">
+			<div id="sptitle"></div>
+            <div id="spgal"></div>			
+			<div id="spdescription"></div>
+
+            <div style="position: relative;float: right;">			
+					<table style="width: 122px; height: 66px;"> 
+                      <tr> 
+                        <td> <input type="number" value="1" min="0" max="1000" name="num" id="amountnum"/> </td> 
+                        <td>
+                        	<table>
+                                <tr>
+                                  <td><img id="up" style="width: 50px; height: 54px;" src="images/up.png"/></td>
+                               </tr>
+                              <tr>  
+                                <td><img id="down" style="width: 50px; height: 54px;" src="images/down.png"/></td>
+                              </tr>
+                            </table>                            
+                        </td>            
+                        <td>
+                        	<h1><div id="spprice"></div></h1>
+                        </td>            
+                      </tr>
+                    </table>
+            </div>
+
+	  </div>
+	</div>
+
+</div>
+
